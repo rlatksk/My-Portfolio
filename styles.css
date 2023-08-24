@@ -37,7 +37,7 @@ p {
   text-indent: 20px;
 }
 
-.social-icons {
+.social-icon {
   margin-top: 20px;
 }
 
@@ -58,8 +58,7 @@ body {
     margin: auto;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     overflow: auto;
-    background: linear-gradient(315deg, rgb(218, 56, 207) 3%, rgba(60,132,206,1) 38%, rgba(48,238,226,1) 68%, rgba(255,25,25,1) 98%);
-    animation: gradient 15s ease infinite;
+    background: linear-gradient(#66d3ff, #1e4bbb);
     background-size: 400% 400%;
     background-attachment: fixed;
 }
