@@ -1,2 +1,2 @@
-# Personal-Website
-A personal website made with HTML and CSS
+# My Portfolio
+A portfolio website that use HTML, CSS, and JS.
